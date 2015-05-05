@@ -1,0 +1,10 @@
+c:\users\rodentmaster\documents\visual studio 2013\Projects\scrotie\scrotie\bin\Debug\scrotie.exe.config
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\bin\Debug\scrotie.exe
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\bin\Debug\scrotie.pdb
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Debug\scrotie.csprojResolveAssemblyReference.cache
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Debug\scrotie.Properties.Resources.resources
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Debug\scrotie.csproj.GenerateResource.Cache
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Debug\scrotie.exe
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Debug\scrotie.pdb
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Debug\scrotie.FindDialog.resources
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Debug\scrotie.SEedit.resources

@@ -1,0 +1,12 @@
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Release\scrotie.FindDialog.resources
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Release\scrotie.SEedit.resources
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Release\scrotie.csproj.GenerateResource.Cache
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\bin\Release\scrotie.exe.config
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\bin\Release\scrotie.exe
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\bin\Release\scrotie.pdb
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\bin\Release\scrotie.exe.CodeAnalysisLog.xml
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\bin\Release\scrotie.exe.lastcodeanalysissucceeded
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Release\scrotie.Properties.Resources.resources
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Release\scrotie.exe
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Release\scrotie.pdb
+C:\Users\rodentmaster\Documents\Visual Studio 2013\Projects\scrotie\scrotie\obj\Release\scrotie.csprojResolveAssemblyReference.cache
